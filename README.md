@@ -1,3 +1,3 @@
 Exploratory Data Analysis With Python Pandas
-https://www.kaggle.com/datasets/aiaiaidavid/the-big-dataset-of-ultra-marathon-running - data set
-
+https://www.kaggle.com/datasets/aiaiaidavid/the-big-dataset-of-ultra-marathon-running
+Cleaning/Filtering/Grouping data for visualization and compering runners on 50/100 km in Poland
