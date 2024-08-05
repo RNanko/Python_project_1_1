@@ -5,3 +5,5 @@ https://www.kaggle.com/datasets/aiaiaidavid/the-big-dataset-of-ultra-marathon-ru
 
 
 Cleaning/Filtering/Grouping data for visualization and compering runners on 50/100 km in Poland
+
+In excel file you can find DASHBOARD.
